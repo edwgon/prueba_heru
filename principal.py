@@ -1,4 +1,6 @@
+#importacion de modulo casos -> Documento casos.py; contiene los casos A y B en cadena de texto
 import casos as caso
+#importacion de modulos Estandar
 import json,os
 #Clase Principal
 class principal:
