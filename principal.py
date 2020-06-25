@@ -263,6 +263,7 @@ if __name__ == '__main__':
         print("Verbos Subjuntivos "+str(contador_verbos_forma_subjuntiva))
         print("Verbos "+str(contador_verbos_total))
         print("Numeros Bonitos "+str(contador_numeros_bonitos))
+        print("_"*20)
         resultados={
             "fuente":str(titulo),
             "Vocabulario ordenado":lista_procesada,
