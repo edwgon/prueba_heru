@@ -9,6 +9,10 @@ Se importan modulos os y json
 
 Se importa modulo casos -> Documento casos.py; contiene los casos A y B en cadena de texto
 
+
+El resultado se imprime por pantalla y se exporta a documento Json -> resultado.json
+
+
 _______________________________________________________________________________________________________________________________-
 
 LANZAMIENTO:
